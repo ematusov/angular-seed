@@ -15,6 +15,7 @@ angular.module('myApp', [
   'ngRoute',
   'ngCookies',
   'navBar',
+  'carousel',
   'myApp.page2',
   'myApp.view2'
 ])
